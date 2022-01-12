@@ -266,6 +266,11 @@
            {
             "value": 45,
             "label": "Smartpay payment service"
+          },
+          },
+           {
+            "value": 46,
+            "label": "Lazada service"
           }
         ]
       },
